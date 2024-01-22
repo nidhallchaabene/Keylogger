@@ -1,0 +1,14 @@
+C:\Users\NIDHAL CHAABENE\Desktop\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.exe.config
+C:\Users\NIDHAL CHAABENE\Desktop\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.exe
+C:\Users\NIDHAL CHAABENE\Desktop\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.pdb
+C:\Users\NIDHAL CHAABENE\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.csproj.AssemblyReference.cache
+C:\Users\NIDHAL CHAABENE\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.csproj.CoreCompileInputs.cache
+C:\Users\NIDHAL CHAABENE\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.exe
+C:\Users\NIDHAL CHAABENE\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.pdb
+C:\Users\NIDHAL CHAABENE\Desktop\mykeylogger01\mykeylogger01\bin\Debug\mykeylogger01.exe.config
+C:\Users\NIDHAL CHAABENE\Desktop\mykeylogger01\mykeylogger01\bin\Debug\mykeylogger01.exe
+C:\Users\NIDHAL CHAABENE\Desktop\mykeylogger01\mykeylogger01\bin\Debug\mykeylogger01.pdb
+C:\Users\NIDHAL CHAABENE\Desktop\mykeylogger01\mykeylogger01\obj\Debug\mykeylogger01.csproj.AssemblyReference.cache
+C:\Users\NIDHAL CHAABENE\Desktop\mykeylogger01\mykeylogger01\obj\Debug\mykeylogger01.csproj.CoreCompileInputs.cache
+C:\Users\NIDHAL CHAABENE\Desktop\mykeylogger01\mykeylogger01\obj\Debug\mykeylogger01.exe
+C:\Users\NIDHAL CHAABENE\Desktop\mykeylogger01\mykeylogger01\obj\Debug\mykeylogger01.pdb
